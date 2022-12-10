@@ -21,17 +21,18 @@ The Government of India is responsible for ensuring the defence of India and eve
 ### INDAIN AIR FORCE :
 <p>The Indian Air Force was officially established on 8th October 1932, and on 1st April 1954, Air Marshal Subroto Mukherjee, one of the founding members of the Air Force took over as the first Indian Chief of Air Staff. With the passage of time, the Indian Air Force undertook massive upgrading of its aircraft and equipments, and as part of the process, it introduced more than twenty new types of aircrafts.</p> <br>
 
+# TECHNICAL INFORMATION 
 
 ## The word Web Development is made up of two words, that is: <br>
 
-Web: It refers to websites, web pages or anything that works over the internet.<br>
-Development: It refers to building the application from scratch. <br><br><br>
+Web: It refers to websites, web pages or anything that works over the internet.
+Development: It refers to building the application from scratch. <br>
 
 
 ## Web Development can be classified into two ways:
 
-Frontend Development<br>
-Backend Development<br><br>
+Frontend Development
+Backend Development<br>
 
 
 ### Frontend Development

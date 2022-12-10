@@ -23,7 +23,7 @@ The Government of India is responsible for ensuring the defence of India and eve
 
 # TECHNICAL INFORMATION 
 
-## The word Web Development is made up of two words, that is: <br>
+## The word Web Development is made up of two words, that is: 
 
 Web: It refers to websites, web pages or anything that works over the internet.
 Development: It refers to building the application from scratch. <br>
@@ -38,7 +38,7 @@ Backend Development<br>
 ### Frontend Development
 The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.<br><br>
 
-#### Frontend Roadmap:Frontend Development Roadmap<br>
+#### Frontend Roadmap:Frontend Development Roadmap
 <p> 
 HTML: HTML stands for HyperText Markup Language. It is used to design the front end portion of web pages using markup language. It acts as a skeleton for a website since it is used to make the structure of a website.</p> <br>
 <p> CSS: Cascading Style Sheets fondly referred to as CSS is a simply designed language intended to simplify the process of making web pages presentable. It is used to style our website.</p> <br>

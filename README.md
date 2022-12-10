@@ -3,7 +3,6 @@
 
 
 ![7](https://user-images.githubusercontent.com/74112721/206871982-47997367-a04f-4767-a3e1-3d5ebd3952d2.jpg)
-![9](https://user-images.githubusercontent.com/74112721/206872471-c67a4adb-900a-4ba2-a758-6939b10c12c6.jpg)
 
 
 ## Introduction :
@@ -16,6 +15,11 @@ The Government of India is responsible for ensuring the defence of India and eve
 ### INDIAN ARMY :
 <p>The Indian Army, as we know it today became operational after the Country gained independence from British colonialism. The Indian Army's HQ is located in New Delhi and functions under the Chief of Army Staff (COAS), who is responsible for the command, control, and administration as a whole. The Army is divided into six operational commands (field armies) and one training command, each under the command of a Lieutenant General, who has an equal status to the Vice-Chief of Army Staff (VCOAS), working under the control of Army HQ in New Delhi. </p> <br>
 
+## INDIAN NAVY :
+<p>The foundation of the modern Indian Navy was laid in the seventeenth century when the East India Company had established a maritime force, thereby graduating in time to the establishment of the Royal Indian Navy in 1934. The Headquarters of the Indian Navy is located in New Delhi, and is under the command of the Chief of the naval staff – an Admiral.</p> <br>
+
+### INDAIN AIR FORCE :
+<p>The Indian Air Force was officially established on 8th October 1932, and on 1st April 1954, Air Marshal Subroto Mukherjee, one of the founding members of the Air Force took over as the first Indian Chief of Air Staff. With the passage of time, the Indian Air Force undertook massive upgrading of its aircraft and equipments, and as part of the process, it introduced more than twenty new types of aircrafts.</p> <br>
 
 
 ## The word Web Development is made up of two words, that is: <br>
